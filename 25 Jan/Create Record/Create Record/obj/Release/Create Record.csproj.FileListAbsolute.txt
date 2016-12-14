@@ -1,0 +1,11 @@
+C:\Users\Kish\documents\visual studio 2015\Projects\Create Record\Create Record\bin\Release\Create Record.exe.config
+C:\Users\Kish\documents\visual studio 2015\Projects\Create Record\Create Record\bin\Release\Create Record.exe
+C:\Users\Kish\documents\visual studio 2015\Projects\Create Record\Create Record\bin\Release\Create Record.pdb
+C:\Users\Kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Release\Create Record.csprojResolveAssemblyReference.cache
+C:\Users\Kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Release\Create_Record.Form1.resources
+C:\Users\Kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Release\Create_Record.Form2.resources
+C:\Users\Kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Release\Create_Record.Form3.resources
+C:\Users\Kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Release\Create_Record.Properties.Resources.resources
+C:\Users\Kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Release\Create Record.csproj.GenerateResource.Cache
+C:\Users\Kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Release\Create Record.exe
+C:\Users\Kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Release\Create Record.pdb

@@ -1,0 +1,9 @@
+G:\School\APPD\Topic 4\practical4\practical4\bin\Debug\practical4.exe.config
+G:\School\APPD\Topic 4\practical4\practical4\bin\Debug\practical4.exe
+G:\School\APPD\Topic 4\practical4\practical4\bin\Debug\practical4.pdb
+G:\School\APPD\Topic 4\practical4\practical4\obj\Debug\practical4.csprojResolveAssemblyReference.cache
+G:\School\APPD\Topic 4\practical4\practical4\obj\Debug\practical4.Form1.resources
+G:\School\APPD\Topic 4\practical4\practical4\obj\Debug\practical4.Properties.Resources.resources
+G:\School\APPD\Topic 4\practical4\practical4\obj\Debug\practical4.csproj.GenerateResource.Cache
+G:\School\APPD\Topic 4\practical4\practical4\obj\Debug\practical4.exe
+G:\School\APPD\Topic 4\practical4\practical4\obj\Debug\practical4.pdb

@@ -1,0 +1,6 @@
+G:\School\APPD\Topic 3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\School\APPD\Topic 3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\School\APPD\Topic 3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\School\APPD\Topic 3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+G:\School\APPD\Topic 3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\School\APPD\Topic 3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

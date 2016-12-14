@@ -1,0 +1,14 @@
+c:\users\kish\documents\visual studio 2015\Projects\Create Record\Create Record\bin\Debug\Create Record.exe.config
+c:\users\kish\documents\visual studio 2015\Projects\Create Record\Create Record\bin\Debug\Create Record.exe
+c:\users\kish\documents\visual studio 2015\Projects\Create Record\Create Record\bin\Debug\Create Record.pdb
+c:\users\kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Debug\Create Record.csprojResolveAssemblyReference.cache
+c:\users\kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Debug\Create_Record.Form1.resources
+c:\users\kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Debug\Create_Record.Properties.Resources.resources
+c:\users\kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Debug\Create Record.csproj.GenerateResource.Cache
+c:\users\kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Debug\Create Record.exe
+c:\users\kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Debug\Create Record.pdb
+c:\users\kish\documents\visual studio 2015\Projects\Create Record\Create Record\obj\Debug\Create_Record.Form2.resources
+C:\Users\Kish\Documents\Visual Studio 2015\Projects\Create Record\Create Record\obj\Debug\Create_Record.Form3.resources
+H:\School\APPD\25 Jan\Create Record\Create Record\bin\Debug\Create Record.exe.config
+H:\School\APPD\25 Jan\Create Record\Create Record\obj\Debug\Create Record.exe
+H:\School\APPD\25 Jan\Create Record\Create Record\obj\Debug\Create Record.pdb

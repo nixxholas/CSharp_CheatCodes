@@ -1,0 +1,9 @@
+G:\School\APPD\Topic 4\practical4\practical4qn3\bin\Debug\practical4qn3.exe.config
+G:\School\APPD\Topic 4\practical4\practical4qn3\bin\Debug\practical4qn3.exe
+G:\School\APPD\Topic 4\practical4\practical4qn3\bin\Debug\practical4qn3.pdb
+G:\School\APPD\Topic 4\practical4\practical4qn3\obj\Debug\practical4qn3.csprojResolveAssemblyReference.cache
+G:\School\APPD\Topic 4\practical4\practical4qn3\obj\Debug\practical4qn3.Form1.resources
+G:\School\APPD\Topic 4\practical4\practical4qn3\obj\Debug\practical4qn3.Properties.Resources.resources
+G:\School\APPD\Topic 4\practical4\practical4qn3\obj\Debug\practical4qn3.csproj.GenerateResource.Cache
+G:\School\APPD\Topic 4\practical4\practical4qn3\obj\Debug\practical4qn3.exe
+G:\School\APPD\Topic 4\practical4\practical4qn3\obj\Debug\practical4qn3.pdb

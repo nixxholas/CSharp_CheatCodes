@@ -1,0 +1,6 @@
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q11\bin\Debug\Q11.exe.config
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q11\bin\Debug\Q11.exe
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q11\bin\Debug\Q11.pdb
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q11\obj\Debug\Q11.csprojResolveAssemblyReference.cache
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q11\obj\Debug\Q11.exe
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q11\obj\Debug\Q11.pdb

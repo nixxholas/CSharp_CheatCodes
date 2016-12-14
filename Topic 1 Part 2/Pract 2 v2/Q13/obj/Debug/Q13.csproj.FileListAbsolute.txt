@@ -1,0 +1,15 @@
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q13\bin\Debug\Q13.exe.config
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q13\bin\Debug\Q13.exe
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q13\bin\Debug\Q13.pdb
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q13\obj\Debug\Q13.csprojResolveAssemblyReference.cache
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q13\obj\Debug\Q13.exe
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q13\obj\Debug\Q13.pdb
+E:\Pract 2 v2\Q13\bin\Debug\Q13.exe.config
+E:\Pract 2 v2\Q13\obj\Debug\Q13.exe
+E:\Pract 2 v2\Q13\obj\Debug\Q13.pdb
+F:\School\APPD\Topic 1 Part 2\Pract 2 v2\Q13\bin\Debug\Q13.exe.config
+F:\School\APPD\Topic 1 Part 2\Pract 2 v2\Q13\obj\Debug\Q13.exe
+F:\School\APPD\Topic 1 Part 2\Pract 2 v2\Q13\obj\Debug\Q13.pdb
+E:\School\DIT 1st Year\AY15&16 S2\APPD\Topic 1 Part 2\Pract 2 v2\Q13\bin\Debug\Q13.exe.config
+E:\School\DIT 1st Year\AY15&16 S2\APPD\Topic 1 Part 2\Pract 2 v2\Q13\obj\Debug\Q13.exe
+E:\School\DIT 1st Year\AY15&16 S2\APPD\Topic 1 Part 2\Pract 2 v2\Q13\obj\Debug\Q13.pdb

@@ -1,0 +1,5 @@
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q9\bin\Debug\Q9.exe.config
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q9\bin\Debug\Q9.exe
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q9\bin\Debug\Q9.pdb
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q9\obj\Debug\Q9.exe
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Q9\obj\Debug\Q9.pdb

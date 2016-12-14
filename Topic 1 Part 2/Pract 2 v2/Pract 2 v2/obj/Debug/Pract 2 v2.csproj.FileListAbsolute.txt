@@ -1,0 +1,6 @@
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Pract 2 v2\bin\Debug\Pract 2 v2.exe.config
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Pract 2 v2\bin\Debug\Pract 2 v2.exe
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Pract 2 v2\bin\Debug\Pract 2 v2.pdb
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Pract 2 v2\obj\Debug\Pract 2 v2.csprojResolveAssemblyReference.cache
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Pract 2 v2\obj\Debug\Pract 2 v2.exe
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Pract 2 v2\Pract 2 v2\obj\Debug\Pract 2 v2.pdb

@@ -1,0 +1,17 @@
+C:\Users\Qi\Documents\Notes\2015-2015 Sem 2\App Dec aka C#\VS Projects\Assignment\Assignment\bin\Debug\Assignment.exe.config
+F:\School\APPD\Sem 2.1 Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+F:\School\APPD\Sem 2.1 Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+F:\School\APPD\Sem 2.1 Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+F:\School\APPD\Sem 2.1 Assignment\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+F:\School\APPD\Sem 2.1 Assignment\Assignment\Assignment\obj\Debug\Assignment.Form1.resources
+F:\School\APPD\Sem 2.1 Assignment\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+F:\School\APPD\Sem 2.1 Assignment\Assignment\Assignment\obj\Debug\Assignment.Splash.resources
+F:\School\APPD\Sem 2.1 Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+F:\School\APPD\Sem 2.1 Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+F:\School\APPD\Sem 2.1 Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
+H:\School\APPD\Sem 2.1 Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+H:\School\APPD\Sem 2.1 Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+H:\School\APPD\Sem 2.1 Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
+D:\General Documents\School\DIT 1st Year\AY15&16 S2\APPD\Sem 2.1 Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\General Documents\School\DIT 1st Year\AY15&16 S2\APPD\Sem 2.1 Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\General Documents\School\DIT 1st Year\AY15&16 S2\APPD\Sem 2.1 Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb

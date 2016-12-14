@@ -1,0 +1,9 @@
+G:\School\APPD\Topic 4\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+G:\School\APPD\Topic 4\ClassExample\ClassExample\bin\Debug\ClassExample.exe
+G:\School\APPD\Topic 4\ClassExample\ClassExample\bin\Debug\ClassExample.pdb
+G:\School\APPD\Topic 4\ClassExample\ClassExample\obj\Debug\ClassExample.csprojResolveAssemblyReference.cache
+G:\School\APPD\Topic 4\ClassExample\ClassExample\obj\Debug\ClassExample.Form1.resources
+G:\School\APPD\Topic 4\ClassExample\ClassExample\obj\Debug\ClassExample.Properties.Resources.resources
+G:\School\APPD\Topic 4\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.GenerateResource.Cache
+G:\School\APPD\Topic 4\ClassExample\ClassExample\obj\Debug\ClassExample.exe
+G:\School\APPD\Topic 4\ClassExample\ClassExample\obj\Debug\ClassExample.pdb
